@@ -32,5 +32,4 @@ const recursiveQuestions = function(questions, index) {
   });
 };
 
-
 recursiveQuestions(questions,0);
